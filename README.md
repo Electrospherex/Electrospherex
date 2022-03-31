@@ -4,5 +4,6 @@
 - Cursando Engenharia de Software
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrospherex)]!(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=electrospherex)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
